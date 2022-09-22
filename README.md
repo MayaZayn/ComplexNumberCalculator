@@ -8,5 +8,5 @@ This calculator takes the input in a specific format and validates it using rege
 3) Multiplication
 4) Division
 
-## Prepared by:
+### Prepared by:
 [Mohamed Rady](https://github.com/MohamedRadyA), [Maya Ayman](https://github.com/MayaZayn), [Ali Tarek]()
